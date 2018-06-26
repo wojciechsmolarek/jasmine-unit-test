@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-unit-tests",
+  "version": "1.0.0",
+  "description": "basic unit tests in jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "j-init": "jasmine init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojciechsmolarek/jasmine-unit-test.git"
+  },
+  "author": "Wojciech Smolarek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojciechsmolarek/jasmine-unit-test/issues"
+  },
+  "homepage": "https://github.com/wojciechsmolarek/jasmine-unit-test#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
